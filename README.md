@@ -1,7 +1,7 @@
 
 # Git Learning Guide
 
-This repository contains learning notes for Git, created to understand how Git works internally using concepts explained through Learn Git Branching.
+This contains learning notes for Git, created to understand how Git works internally using concepts explained through Learn Git Branching.
 
 # Learn Git Branching
 
