@@ -1,43 +1,11 @@
 
 # Git Learning Guide
 
-This contains learning notes for Git, created to understand how Git works internally using concepts explained through Learn Git Branching.
+This documentation contains the concepts of Learn Git Branching.
 
 # Learn Git Branching
 
 Learn Git Branching is an interactive, browser-based learning platform that helps users understand how Git works internally through real-time visual diagrams, covering concepts such as commits, branches, HEAD, merging, and rebasing.
-
-# What it does
-
-Simulates a Git repository in a safe environment
-
-Visually shows commits as nodes and branches as pointers
-
-Updates the commit graph in real time when Git commands are executed
-
-# Concept it teaches:
-
-Creating and understanding commits
-
-Working with branches and HEAD
-
-Switching branches using checkout / switch
-
-Merging branches and resolving conflicts 
-
-Rebasing and understanding linear vs non-linear history
-
-Detached HEAD state
-
-# Why it is effective
-
-Converts theoretical Git concepts into visual understanding
-
-Helps learners see the exact effect of each command
-
-Reduces fear of breaking real repositories
-
-Ideal for beginners as well as intermediate learners
 
 # Introduction to Git Commits
 
