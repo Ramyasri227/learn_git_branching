@@ -19,6 +19,8 @@ A **Git commit** is a record that saves the current state of a project in a Git 
 # Commands Executed
 ```bash
 git commit
+```
+```
 git commit
 ```
 This screenshot shows how commits are created in Git.
