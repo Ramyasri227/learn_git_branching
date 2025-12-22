@@ -1,4 +1,5 @@
 # Learn Git Branching
+This contain 2nd Section documentation related to the Learn Git Branching. In this Section we're going to learn about the Head, Detaching Head and many more..
 
 # Introduction to Head
 
@@ -9,6 +10,12 @@ HEAD is a reference to the current check-out commit in your repository. It's bas
 Detaching HEAD in Git means that HEAD is pointing directly to a specific commit instead of a branch.
 
 <img width="1920" height="916" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/0d2d694f-277d-4b75-b878-01a0a3d59504" />
+
+# Commands Excecuted
+
+```
+git checkout C4
+```
 
 This screenshot illustrates the detached HEAD state in Git using Learn Git Branching. 
 
