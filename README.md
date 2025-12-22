@@ -1,4 +1,3 @@
-
 # Git Learning Guide
 
 This documentation contains the concepts of Learn Git Branching.
@@ -48,6 +47,9 @@ The git checkout command is used to switch between these branches, so your files
 # Commands Executed
 ```bash
 git branch bugfix
+```
+
+```
 git checkout bugfix
 ```
 
@@ -72,10 +74,25 @@ Git merging is the act of combining changes from one branch into another branch 
 # Commands Executed
 ```bash
 git branch bugfix
+```
+
+```
 git checkout bugfix
+```
+
+```
 git commit
+```
+
+```
 git checkout main
+```
+
+```
 git commit
+```
+
+```
 git merge bugfix
 ```
 
@@ -100,11 +117,29 @@ Git rebase is the process of moving or replaying commits from one branch onto an
 # Commands Executed
 ```bash
 git branch bugfix
+```
+
+```
 git checkout bugfix
+```
+
+```
 git commit
+```
+
+```
 git checkout main
+```
+
+```
 git commit
+```
+
+```
 git checkout bugfix
+```
+
+```
 git rebase main
 ```
 
