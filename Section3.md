@@ -1,6 +1,6 @@
 # Git Learning Guide Section3
 
-This documentation Conatin the concepts of the Learn Git Branching
+This documentation contains the concepts of Section3 from Learn Git Branching.
 
 # Introduction to Cherry-Pick
 
