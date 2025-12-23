@@ -9,4 +9,12 @@ This Contain the Conpects of Learn Git Branching in Git learn i have learned abo
 
 **Section1**
 
-In Section we will discuss about the git commit,branch,merge and rebase, with the help of the section1 we get to know about the how can use this commands.
+In Section 1, we will discuss Git commit, branch, merge, and rebase with the help of this section, we will understand how these commands are used in Git.
+
+**Section2**
+
+In these Section2 we will discuss about the Git HEAD, Detaching Head, Relative References (^) & (~) and Revert with the help of this section we will understand how these commands are used in Git.
+
+**Section3**
+
+
