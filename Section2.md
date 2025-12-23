@@ -1,4 +1,4 @@
-# Git Learning Branching Section2
+# Git Learning Section2
 
 This documentaion contain the concepts of the Section2 of the Learn Git Branching
 
