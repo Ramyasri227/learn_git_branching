@@ -1,6 +1,6 @@
 # Git Learning Guide Section1
 
-This documentation contains the concepts of Learn Git Branching.
+This documentation contains the concepts of Section1 from Learn Git Branching.
 
 # Learn Git Branching
 
