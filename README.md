@@ -13,8 +13,8 @@ In Section 1, we will discuss Git commit, branch, merge, and rebase with the hel
 
 **Section2**
 
-In these Section2 we will discuss about the Git HEAD, Detaching Head, Relative References (^) & (~) and Revert with the help of this section we will understand how these commands are used in Git.
+In Section2 we will discuss about the Git HEAD, Detaching Head, Relative References (^) & (~) and Revert with the help of this section we will understand how these commands are used in Git.
 
 **Section3**
 
-
+In this section, we will discuss Git cherry-pick and interactive rebase with the help of these commands, we will understand how to select specific commits, modify commit history, and organize changes effectively in Git.
