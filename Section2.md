@@ -1,6 +1,6 @@
 # Git Learning Guide Section2
 
-This documentaion contain the concepts of the Section2 of the Learn Git Branching
+This documentation contains the concepts of Section2 from Learn Git Branching.
 
 # Introduction to HEAD
 
