@@ -32,7 +32,7 @@ In this state, HEAD is not attached to any branch but is pointing directly to co
 
 ### **What is Relative Reference?**
 
-
+Relative References are a way to refer to commits relative to another reference (like HEAD or a branch name) instead of using full commit hashes. They let you move backward or navigate through the commit history in a simple and readable way.
 
 For example, HEAD^ refers to the immediate parent of the current commit. If a commit has multiple parents (like a merge commit), HEAD^1 refers to the first parent and HEAD^2 refers to the second parent.
 
